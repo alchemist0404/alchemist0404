@@ -1,6 +1,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maletiger0404&show_icons=true&theme=merko&hide=prs)](https://github.com/maletiger0404/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maletiger000)](https://github.com/maletiger0404/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maletiger000&layout=compact&theme=merko)](https://github.com/maletiger0404/github-readme-stats)
 
 <br />
 <!--
