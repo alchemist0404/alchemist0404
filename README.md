@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
+<h1 align="center"><img align="center" src="https://imagespd.artistshot.com/23629865/angry-tiger-sticker-250x250.jpg" style = "width: -webkit-fill-available;"/></h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maletiger0404.maletiger0404" />
 <img align="right" src="https://img.shields.io/github/followers/maletiger0404?label=Follow&style=social" />
 <h1 align="center"></h1>
