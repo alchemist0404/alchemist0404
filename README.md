@@ -47,3 +47,22 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
+
+## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+ 
+### Online Betting Website and Mobile app
+<br />
+
+### Crypto Currency
+<br />
+
+### AR & VR Web and Mobile application
+<br />
+
+### Video Conference Web and Mobile application
+<br />
+
+</div>
