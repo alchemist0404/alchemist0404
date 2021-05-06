@@ -1,9 +1,5 @@
-### Hi there 👋
 
-## ✉️ Find me on:
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=maletiger0404.maletiger0404)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maletiger0404)](https://github.com/maletiger0404/github-readme-stats)
 
 <br />
 
