@@ -1,6 +1,5 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maletiger0404&show_icons=true&theme=merko&hide=prs)](https://github.com/maletiger0404/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=beyond7&show_icons=true&theme=monokai&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond7&layout=compact&theme=monokai&count_private=true">
 <br />
 <!--
 **maletiger0404/maletiger0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
