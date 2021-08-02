@@ -9,7 +9,7 @@
 <img align="right" src="https://img.shields.io/github/followers/0zguner?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alchemist0404&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist0404&layout=compact&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
