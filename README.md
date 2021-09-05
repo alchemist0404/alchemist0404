@@ -83,4 +83,4 @@
 
 </div>
 
-<!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg)
