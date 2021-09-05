@@ -83,4 +83,4 @@
 
 </div>
 
-![Snake animation](https://github.com/jtorquetti/jtorquetti/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/jtorquetti/jtorquetti/blob/output/github-contribution-grid-snake.svg) -->
