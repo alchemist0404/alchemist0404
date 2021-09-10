@@ -50,6 +50,8 @@
 
 <!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404) -->
 
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true)
+
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
