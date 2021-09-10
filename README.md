@@ -48,6 +48,8 @@
   </tr>
 </table>
 
+<!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404) -->
+
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
