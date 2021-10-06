@@ -1,4 +1,4 @@
-<a href="https://github.com/alchemist0404"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Web%20and%20Mobile%20Master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=7%2B+years+of+hands-on+experience+in+programming;Blockchain+developer;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
