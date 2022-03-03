@@ -68,25 +68,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />
 </div> -->
 
-<!-- ## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
-
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### Online Betting Website and Mobile app
-<br />
-
-### Crypto Currency
-<br />
-
-### AR & VR Web and Mobile application
-<br />
-
-### Video Conference Web and Mobile application
-<br />
-
-</div> -->
-
 <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
