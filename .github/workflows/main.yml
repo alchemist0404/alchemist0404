@@ -27,7 +27,9 @@ jobs:
           base: activity, community
           config_display: columns
           config_octicon: yes
+          config_order: introduction, isocalendar, base.activity, base.community 
           config_timezone: Europe/Budapest
+          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_ignored: forker
