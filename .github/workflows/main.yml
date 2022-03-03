@@ -24,9 +24,9 @@ jobs:
           # Options
           user: alchemist0404
           template: classic
-          base: activity, community
+          base: activity, community, repositories
           config_display: columns
-          config_order: base.activity, base.community, isocalendar
+          config_order: isocalendar,
           config_timezone: Europe/Budapest
           plugin_achievements: yes
           plugin_achievements_display: compact
