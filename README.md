@@ -8,7 +8,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alchemist0404.alchemist0404" />
 <img align="right" src="https://img.shields.io/github/followers/alchemist0404?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alchemist0404&show_icons=true&theme=merko&count_private=true" />
+<!-- <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alchemist0404&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
@@ -46,14 +46,14 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
-</table>
+</table> -->
 
 <!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404) -->
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true)
-
+<!-- [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true) -->
+<!-- 
 <div align="center">
-  <!-- <a href="https://badges.pufler.dev">
+  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
@@ -65,10 +65,10 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />
+</div> -->
 
-## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+<!-- ## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
@@ -85,6 +85,8 @@
 ### Video Conference Web and Mobile application
 <br />
 
-</div>
+</div> -->
 
 <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
