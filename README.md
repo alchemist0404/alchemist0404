@@ -67,5 +67,3 @@
 </div> -->
 
 <img align="center" src="/github-metrics.svg" alt="Alchemist" width="100%">
-
-<!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
