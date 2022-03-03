@@ -25,6 +25,7 @@ jobs:
           user: alchemist0404
           template: classic
           base: activity, community
+          config_display: large
           config_timezone: Europe/Budapest
           plugin_achievements: yes
           plugin_achievements_display: compact
