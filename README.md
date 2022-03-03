@@ -65,6 +65,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />
 </div> -->
 
-<!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
+<img align="center" src="/github-metrics.svg" alt="Alchemist" width="100%">
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
