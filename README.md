@@ -66,4 +66,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />
 </div> -->
 
-<img align="center" src="/github-metrics.svg" alt="Alchemist" width="100%">
+<h1 width="100%" align="center"><img align="center" src="/github-metrics.svg" alt="Alchemist" width="90%"></h1>
