@@ -89,4 +89,4 @@
 
 <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
