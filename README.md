@@ -69,5 +69,5 @@
 <h1 width="100%" align="center"></h1>
 
 <div align="center" width="100%">
-  <img align="center" src="https://metrics.lecoq.io/alchemist0404?template=classic&base.header=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&lines=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FLjubljana&config.order=isocalendar" alt="Alchemist" width="90%">
+  <img align="center" src="./github-metrics.svg" alt="Alchemist" width="90%">
 </div>
