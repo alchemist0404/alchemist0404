@@ -25,6 +25,7 @@ jobs:
           user: alchemist0404
           template: classic
           base: activity, community
+          config_display: large
           config_order: isocalendar
           config_timezone: Europe/Ljubljana
           plugin_achievements: yes
