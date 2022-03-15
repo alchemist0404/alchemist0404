@@ -69,10 +69,10 @@
 <h1 width="100%" align="center"></h1>
 
 <div align="center" width="100%">
-  <img align="center" src="./github-metrics.svg" alt="Alchemist" width="90%">
+  <img align="center" src="./github-metrics.svg" alt="Alchemist" width="100%">
 </div>
 
-## Keep in touch
+## Contact me
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primozbernard401@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/zqVb0AjH4liM)
